@@ -1,4 +1,5 @@
 {
+	"author": "TESSI Hardson",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0",
@@ -11,9 +12,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	},
-	"author": {
-		"name": "TESSI Hardson",
-		"email": "hardsontessi2@gmail.com"
 	}
 }
